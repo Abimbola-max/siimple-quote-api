@@ -1,1 +1,1 @@
-gunicorn src.app:app
+gunicorn app:app
